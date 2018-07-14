@@ -1,5 +1,0 @@
- 1、从官网下载 https://www.editplus.com/download.html；
- 2、获取注册码 http://www.jb51.net/tools/editplus/；
- 3、下载汉化文件
-	介绍汉化文件链接： http://www.cnblogs.com/hanzisearcher/archive/2012/09/14/editplus.html
-	汉化文件下载地址： https://u12751606.ctfile.com/dir/12751606-22260345-daaed8/25545996/
